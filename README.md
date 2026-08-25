@@ -42,4 +42,11 @@ Principalmente por seguridad de los archivos de cada usuario, historial profesio
 Para no perder progreso importante, ni archivos que puedan ser esenciales para el proyecto. 
 # Actividad 5 
 * -¿Qué creen que significa la extensión.md de README.md?
-  Es un formato visual el cual te da la oportunidad de agregar negritas, listas a tu archivo. 
+  Es un formato visual el cual te da la oportunidad de agregar negritas, listas a tu archivo.
+# Actividad 6
+-¿Cuántos cambios aparecen? Aparecen 2 cambios 
+
+-¿Quién realizó el cambio? Valentina 
+
+-¿Qué mensaje tiene el commit? Edición Principal 
+
