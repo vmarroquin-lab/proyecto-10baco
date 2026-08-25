@@ -49,4 +49,9 @@ Para no perder progreso importante, ni archivos que puedan ser esenciales para e
 -¿Quién realizó el cambio? Valentina 
 
 -¿Qué mensaje tiene el commit? Edición Principal 
+# Actividad 7
+-¿Por qué es útil que GitHub permita que varias personas trabajen en un mismo proyecto? 
+
+* -Porque permite que el equipo avance más rápido separando las tareas y evitando que se borre el trabajo de los demás al combinar los cambios de forma ordenada. 
+
 
